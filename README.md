@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="110px">
   
   <h1>Hola, soy Lenin 👋</h1>
-  <h3>Estudiante UCV · Desarrollador Web · Creador de Bondly</h3>
+  <h3>Estudiante de la UCV · Desarrollador Web Junior y de videojuegos · Creador de Bondly Beta</h3>
 
   <p>
     <i>"Pienso demasiado, analizo todo… y luego lo convierto en código."</i>
   </p>
 
-  <a href="https://leninbird.github.io/bondlypage/">
+  <a href="https://bondlyucv.netlify.app/">
     <img src="https://img.shields.io/badge/VER_PROYECTO-BONDLY_BETA-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 
@@ -22,7 +22,7 @@
 - 🎓 Estudiante universitario en la **UCV**.
 - 🚀 Desarrollador web enfocado en **aplicaciones reales**, no solo proyectos de curso.
 - 🧠 Me gusta entender **por qué** pasan las cosas antes de escribir código.
-- 🔭 Actualmente desarrollando **Bondly**, una red social universitaria con enfoque en afinidad, comunidad y bienestar.
+- 🔭 Actualmente desarrollando **Bondly**, un intento de red social universitaria para la UCV con enfoque en afinidad, comunidad y bienestar.
 - 🌱 Explorando **Vue.js** como capa lógica (sin compiladores ni frameworks pesados).
 - ⚡ Dato real: Bondly ya corre en **web y app móvil**, con auth, storage y sesiones bien controladas.
 
@@ -72,10 +72,10 @@
 ## 📫 Conectemos
 
 <div align="center">
-  <a href="TU_LINK_DE_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lenin-ta-353ab5344/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="TU_LINK_DE_INSTAGRAM">
+  <a href="https://www.instagram.com/leninbird/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
