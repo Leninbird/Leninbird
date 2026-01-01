@@ -62,10 +62,10 @@
 
 ## 📊 Estadísticas
 
+### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leninbird&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Estadísticas de Leninbird" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leninbird&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leninbird&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats Leninbird">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leninbird&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Langs Leninbird">
 </div>
 
 ---
