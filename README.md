@@ -1,4 +1,4 @@
-<div align="center">
+markdown<div align="center">
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="110px">
   
@@ -23,7 +23,6 @@
 ---
 
 ## 🙋‍♂️ Sobre mí
-
 ```javascript
 const lenin = {
     universidad: "Universidad Central de Venezuela",
@@ -139,7 +138,6 @@ Bondly nace de una necesidad real: conectar estudiantes que comparten más que s
 ---
 
 ## 🎯 Actualmente
-
 ```diff
 + Desarrollando nuevas features para Bondly Beta
 + Optimizando la arquitectura de chats en tiempo real
