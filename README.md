@@ -20,7 +20,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante universitario en la **UCV**.
-- 🚀 Desarrollador web enfocado en **aplicaciones reales**, no solo proyectos de curso.
+- 🚀 Desarrollador junior enfocado en **aplicaciones reales**, no solo proyectos de curso. También experto en servidor Linux
 - 🧠 Me gusta entender **por qué** pasan las cosas antes de escribir código.
 - 🔭 Actualmente desarrollando **Bondly**, un intento de red social universitaria para la UCV con enfoque en afinidad, comunidad y bienestar.
 - 🌱 Explorando **Vue.js** como capa lógica (sin compiladores ni frameworks pesados).
@@ -28,13 +28,13 @@
 
 ---
 
-## 🧩 Proyecto Destacado: Bondly
+## 🧩 Proyecto Destacado: Bondly (1er Lugar en la Expowork de Ingeniería de Sistemas de la UCV 2025-II)
 
 **Bondly** es una plataforma universitaria que integra:
 
 - 🔐 Autenticación y sesiones persistentes
 - 🧑‍🤝‍🧑 Afinidad entre estudiantes
-- 💬 Chats (privados, grupales y académicos)
+- 💬 Chats (privados, grupales y general)
 - 🎓 Mentoría entre alumnos
 - 🧊 Romper el hielo de forma natural
 - 🎵 Compartir música
