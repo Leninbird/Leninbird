@@ -1,8 +1,8 @@
 ### Hola, soy Lenin 👋
-Soy un estudiante de la UCV apasionado por el desarrollo web y la tecnología.
+Soy un estudiante de la UCV apasionado por el desarrollo web, creación de videojuegos y la tecnología.
 
-- 🔭 Actualmente estoy trabajando en **Bondly (Red Social Universitaria)**
-- 🌱 Estoy aprendiendo **Vue.js, HTML5 y CSS3**
+- 🔭 Actualmente estoy trabajando en **Bondly (Intento de red Social Universitaria)**
+- 🌱 Lenguajes que domino **Vue.js, HTML5, Jave, Javascript, C# (Videojuegos) y CSS3**
 - ⚡ Dato curioso: ¡Acabo de desplegar mi primera web usando GitHub Pages!
 
 ### 🚀 Mis Proyectos
