@@ -1,47 +1,77 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="110px">
   
-  <h1>¡Hola! Soy Lenin 👋</h1>
-  <h3>Estudiante UCV | Desarrollador Web | Creador de Bondly</h3>
+  <h1>Hola, soy Lenin 👋</h1>
+  <h3>Estudiante UCV · Desarrollador Web · Creador de Bondly</h3>
 
   <p>
-    <i>"Me gusta el pan y crear código"</i>
+    <i>"Pienso demasiado, analizo todo… y luego lo convierto en código."</i>
   </p>
 
   <a href="https://leninbird.github.io/bondlypage/">
-    <img src="https://img.shields.io/badge/VER_PROYECTO-BONDLY_BETA-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/VER_PROYECTO-BONDLY_BETA-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 
 </div>
 
-<hr>
+---
 
-### 👨‍💻 Sobre mí
-- 🔭 Actualmente estoy trabajando en la **Red Social Universitaria Bondly**.
-- 🌱 Estoy perfeccionando mi uso de **Vue.js** (¡sin compilador por ahora!).
-- ⚡ **Dato curioso:** Acabo de desplegar mi primera web real en GitHub Pages.
+## 👨‍💻 Sobre mí
 
-### 🛠️ Tecnologías que uso
+- 🎓 Estudiante universitario en la **UCV**.
+- 🚀 Desarrollador web enfocado en **aplicaciones reales**, no solo proyectos de curso.
+- 🧠 Me gusta entender **por qué** pasan las cosas antes de escribir código.
+- 🔭 Actualmente desarrollando **Bondly**, una red social universitaria con enfoque en afinidad, comunidad y bienestar.
+- 🌱 Explorando **Vue.js** como capa lógica (sin compiladores ni frameworks pesados).
+- ⚡ Dato real: Bondly ya corre en **web y app móvil**, con auth, storage y sesiones bien controladas.
+
+---
+
+## 🧩 Proyecto Destacado: Bondly
+
+**Bondly** es una plataforma universitaria que integra:
+
+- 🔐 Autenticación y sesiones persistentes
+- 🧑‍🤝‍🧑 Afinidad entre estudiantes
+- 💬 Chats (privados, grupales y académicos)
+- 🎓 Mentoría entre alumnos
+- 🧊 Romper el hielo de forma natural
+- 🎵 Compartir música
+- 📝 Blog y espacios anónimos
+- 📦 Storage para imágenes (Supabase)
+
+> No es un clon de Tinder.  
+> Es una red pensada para estudiantes reales, con problemas reales.
+
+---
+
+## 🛠️ Tecnologías que uso
+
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<br>
+---
 
-### 📊 Mis Estadísticas
+## 📊 Estadísticas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leninbird&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leninbird&layout=compact&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leninbird&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leninbird&layout=compact&theme=tokyonight&hide_border=true" height="160">
 </div>
 
-<br>
+---
+
+## 📫 Conectemos
 
 <div align="center">
-  <h3>📫 ¡Conectemos!</h3>
   <a href="TU_LINK_DE_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
