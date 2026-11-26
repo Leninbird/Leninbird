@@ -28,7 +28,7 @@
 
 ---
 
-## 🧩 Proyecto Destacado: Bondly (1er Lugar en la Expowork de Ingeniería de Sistemas de la UCV 2025-II)
+## 🧩 Proyecto Destacado: Bondly 
 
 **Bondly** es una plataforma universitaria que integra:
 
